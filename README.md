@@ -65,7 +65,10 @@ ano 🧠 Requisitos
 
 R ≥ 4.0.0 Pacotes: stringr, jsonlite, purrr, dplyr, janitor 👤 Autor
 
-Desenvolvido por Adelino Martins 📫 Contato: <adelino.developer@gmail.com>
+Desenvolvido por Adelino Martins 
+
+📫 Contato: <adelino.developer@gmail.com>
+
 🔗 GitHub: github.com/adelino-dev
 
 📄 Licença
