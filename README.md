@@ -35,7 +35,7 @@ monitoramento hídrico no estado de São Paulo.
 ``` r
 # Instale diretamente a partir do GitHub
 if (!requireNamespace("devtools")) install.packages("devtools")
-devtools::install_github("BaruqueRodrigues/getsabespdata")
+devtools::install_github("adelino-dev/getsabespdata")
 ```
 
 ## 📚 Uso Básico
