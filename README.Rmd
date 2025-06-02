@@ -40,7 +40,7 @@ O pacote `getsabespdata` fornece uma interface simples e direta para coletar dad
 ```{r, eval = FALSE}
 # Instale diretamente a partir do GitHub
 if (!requireNamespace("devtools")) install.packages("devtools")
-devtools::install_github("BaruqueRodrigues/getsabespdata")
+devtools::install_github("adelino-dev/getsabespdata")
 ```
 
 ## 📚 Uso Básico
